@@ -99,7 +99,7 @@ $$
 $$
 \gradient_{Pk}C_i = \frac{1}{\rho_0}\sum_j\gradient_{Pk}W(p_i-p_j,h)\tag{7}
 $$
-ps:这里好像少了个m（质量）
+
 
 根据k是否为相邻粒子，有两种不同的情况：
 $$
